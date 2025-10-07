@@ -1,0 +1,8 @@
+*.wav
+
+Emotional Speech Dataset/
+resources/
+SGEVC1/
+SGEVC10/
+StarGAN/
+Source/
